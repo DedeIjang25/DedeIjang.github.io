@@ -191,6 +191,8 @@ nav ul li a {
 
 .hero-right img {
     width: 90%;
+    border-radius: 50%;
+    border: #fff;
 }
 
 .hero-right {
